@@ -1,0 +1,18 @@
+.App {
+  text-align: left;
+  margin-left: 300px;
+  margin-top:50px;
+  padding: 20px;
+  width: 200px;
+  border: 1px solid #000; 
+}
+
+.filters{
+  margin-top:-20px;
+  margin-bottom: 20px;
+}
+
+.chips{
+  display: inline;
+}
+
